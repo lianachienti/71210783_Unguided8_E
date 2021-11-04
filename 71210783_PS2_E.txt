@@ -1,0 +1,2 @@
+Gelas nomor 4 yang akan penuh duluan karena pipa dari gelas nomor 6 dan 5, 2 dan 1, dan 2 dan 3 tertutup sehingga air tidak mungkin akan masuk ke gelas gelas yang tertutup.
+Gelas 4 langsung terisi dari kran sedangkan gelas 2 dan gelas 6 hanya mendapatkan supply air dari pipa kecil yang dialirkan melalui gelas 4, sehingga membuat kedua gelas tersebut terisi lebih lambat daripada gelas ke 4

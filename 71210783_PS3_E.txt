@@ -1,0 +1,17 @@
+Bilangan fibonacci merupakan deret angka yang didapatkan dari penjumlahan 2 angka sebelumnya dengan 2 angka pertama bernilai 1
+Cth: bilangan fibonacci ke 6, hasilnya adalah 8. Didapatkan dari urutan ini: 1 1 2 3 5 8 13 dst
+
+Un >= U3
+Un = U9n-2) + U(n-1)
+
+Un < U3
+Un = Un = U(n-1)
+
+ If Un >= U3 
+  then fibonacci Un = U9n-2) + U(n-1)
+	print "fibonacci Un = U9n-2) + U(n-1)"
+ Else 
+ 	Un < U3
+	print "Un = Un = U(n-1)"
+
+
